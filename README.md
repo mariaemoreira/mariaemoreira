@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariaemoreira
+- 👋 Hi, I’m Maria Emília
 - 👀 I’m interested in Frontend Development / HTML, CSS, JavaScript / Git / GitHub / Booststrap / React
 - 🌱 I’m currently learning JavaScript, Git, React
 - 💞️ I’m looking to collaborate on any cool project for starter developers!
